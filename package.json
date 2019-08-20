@@ -1,0 +1,30 @@
+{
+  "name": "p-viewer",
+  "version": "0.0.1",
+  "description": "Presenter Viewer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/What-a-tops/PV.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Darius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/What-a-tops/PV/issues"
+  },
+  "homepage": "https://github.com/What-a-tops/PV#readme",
+  "devDependencies": {
+    "electron": "^6.0.2"
+  }
+}
+
