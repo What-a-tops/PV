@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/What-a-tops/PV#readme",
   "devDependencies": {
-    "electron": "^6.0.2"
+    "electron": "^15.5.5"
   }
 }
 
